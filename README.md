@@ -1,5 +1,11 @@
 # tugas-1-junaediakbar
 tugas-1-junaediakbar created by GitHub Classroom
+<br>
+<br>
+Nama : Junaedi Akbar <br>
+Nrp  : 05111940000041
+<br>
+<br>
 Nama Benda : Kotak Ikat Pinggang
 
 Foto dari sudut kanan atas: <br>
