@@ -6,7 +6,7 @@ Nama : Junaedi Akbar <br>
 Nrp  : 05111940000041
 <br>
 <br>
-Nama Benda : Kotak Ikat Pinggang
+Nama Benda : Kardus Ikat Pinggang
 
 Foto dari sudut kanan atas: <br>
 <img src="./img/kanan-atas.jpg" width="400" height="600">
