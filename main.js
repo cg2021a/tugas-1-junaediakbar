@@ -28,8 +28,8 @@ function main() {
 
     line_body_color: [0.2, 0.23, 0.25],
 
-    line_top_a: [0.17, 0.68],
-    line_top_b: [0.84, 0.7],
+    line_top_a: [0.17, 0.64],
+    line_top_b: [0.84, 0.66],
     line_top_c: [0.99, 0.24],
     line_top_d: [0.05, 0.22],
     line_top_e: [0.08, 0.12],
