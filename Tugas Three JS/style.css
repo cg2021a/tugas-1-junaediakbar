@@ -19,7 +19,7 @@ body {
   margin: 0 auto;
 }
 p {
-  padding: 1rem 0;
+  padding: 12px 0;
 }
 h1 {
   padding: 1.2rem 0;
@@ -29,8 +29,10 @@ h1 {
   padding: 2.43m;
   margin: 0 auto;
 }
-#select {
+#light {
   width: 80%;
   margin: 0 auto;
   margin-bottom: 24px;
+  padding: 12px;
+  font-weight: bold;
 }
