@@ -6,7 +6,7 @@ Nama : Junaedi Akbar <br>
 Nrp  : 05111940000041
 <br>
 <br>
-Nama Benda : Kardus Ikat Pinggang
+Nama Benda : Kardus Ikat Pinggang <br>
 Live Demo Tugas : <a href ="https://cg2021a.github.io/tugas-1-junaediakbar/"> LIVE DEMO TUGAS 1</a>
 
 Foto dari sudut kanan atas: <br>
