@@ -1,0 +1,834 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl bovenktMuur
+Ka 0.000000 0.000000 0.000000
+Kd 0.901961 0.898039 0.898039
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/bovenktMuur.jpg
+
+newmtl Wall_N
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.529412 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/Wall_N.jpg
+
+newmtl zijkantmuurZ
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.560784 0.521569
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/zijkantmuurZ.jpg
+
+newmtl buitendeurgevel
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.635294 0.619608
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/buitendeurgevel.jpg
+
+newmtl Color_007
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.227451 0.227451
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_005
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.447059 0.447059
+Ks 0.330000 0.330000 0.330000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl GeelDak2
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.643137 0.639216
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/GeelDak2.jpg
+
+newmtl geleBlok2
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.623529 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/geleBlok2.jpg
+
+newmtl GeelHuisjebinnenkant
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.423529 0.301961
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/GeelHuisjebinnenkant.jpg
+
+newmtl geleBlokje
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.596078 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/geleBlokje.jpg
+
+newmtl geleKleineBlokje
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.600000 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/geleKleineBlokje.jpg
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl achterZOnd2
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.207843 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/achterZOnd2.jpg
+
+newmtl spiegelruit
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.643137 0.592157
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/spiegelruit.jpg
+
+newmtl langegang
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.505882 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/langegang.jpg
+
+newmtl zijraampjonderkant
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.572549 0.392157
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/zijraampjonderkant.jpg
+
+newmtl dakjeuitsteekraam
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.647059 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakjeuitsteekraam.jpg
+
+newmtl zijraampje
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.486275 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/zijraampje.jpg
+
+newmtl randGevel
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.749020 0.737255
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/randGevel.jpg
+
+newmtl gangramenzuid
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.545098 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/gangramenzuid.jpg
+
+newmtl gangzijmuurdwarsstukje
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.541176 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/gangzijmuurdwarsstukje.jpg
+
+newmtl or9
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.505882 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or9.jpg
+
+newmtl or6
+Ka 0.000000 0.000000 0.000000
+Kd 0.815686 0.501961 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or6.jpg
+
+newmtl or5
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.505882 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or5.jpg
+
+newmtl or4
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.505882 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or4.jpg
+
+newmtl or3
+Ka 0.000000 0.000000 0.000000
+Kd 0.811765 0.501961 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or3.jpg
+
+newmtl or2
+Ka 0.000000 0.000000 0.000000
+Kd 0.823529 0.509804 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or2.jpg
+
+newmtl or1
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.505882 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or1.jpg
+
+newmtl blauwMetRaam
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.568627 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/blauwMetRaam.jpg
+
+newmtl blauw_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.572549 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/blauw_2.jpg
+
+newmtl Color_003
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.330000 0.330000 0.330000
+
+newmtl bovenrandZMid
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.470588 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/bovenrandZMid.jpg
+
+newmtl PootBreedWitZuid
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.603922 0.541176
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/PootBreedWitZuid.jpg
+
+newmtl PootSmal
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.662745 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/PootSmal.jpg
+
+newmtl PootBreedWit
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.427451 0.392157
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/PootBreedWit.jpg
+
+newmtl PootSmal1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.662745 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/PootSmal1_.jpg
+
+newmtl OranjeIngangBeneden
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.396078 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/OranjeIngangBeneden.jpg
+
+newmtl OranjePootKlein
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.384314 0.298039
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/OranjePootKlein.jpg
+
+newmtl dakrandL
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.443137 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakrandL.jpg
+
+newmtl binnkantdeur
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.470588 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/binnkantdeur.jpg
+
+newmtl gangzijmuurvooraanzuid
+Ka 0.000000 0.000000 0.000000
+Kd 0.509804 0.505882 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/gangzijmuurvooraanzuid.jpg
+
+newmtl gangzijmuurzuid
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.635294 0.619608
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/gangzijmuurzuid.jpg
+
+newmtl binnkantschuin
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.470588 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/binnkantschuin.jpg
+
+newmtl binnenzijkant
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.258824 0.211765
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/binnenzijkant.jpg
+
+newmtl tussenraam
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.501961 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/tussenraam.jpg
+
+newmtl toren
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.611765 0.592157
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/toren.jpg
+
+newmtl dakwest4
+Ka 0.000000 0.000000 0.000000
+Kd 0.960784 0.945098 0.952941
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakwest4.jpg
+
+newmtl dakwesta1
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakwesta1.jpg
+
+newmtl torensmal
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.615686 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/torensmal.jpg
+
+newmtl raam2everdiep
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.341176 0.333333
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/raam2everdiep.jpg
+
+newmtl gangonderzijde
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.509804 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/gangonderzijde.jpg
+
+newmtl voornoordbeneden
+Ka 0.000000 0.000000 0.000000
+Kd 0.580392 0.556863 0.552941
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/voornoordbeneden.jpg
+
+newmtl groennoord
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.584314 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/groennoord.jpg
+
+newmtl groenNoord2
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.647059 0.509804
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/groenNoord2.jpg
+
+newmtl groenMidden2
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.584314 0.494118
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/groenMidden2.jpg
+
+newmtl groenMidden1
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.631373 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/groenMidden1.jpg
+
+newmtl groenZuid2
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.619608 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/groenZuid2.jpg
+
+newmtl groenZuid2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.619608 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/groenZuid2_1_.jpg
+
+newmtl groenZuid
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.482353 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/groenZuid.jpg
+
+newmtl achterzuidboven
+Ka 0.000000 0.000000 0.000000
+Kd 0.725490 0.725490 0.717647
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/achterzuidboven.jpg
+
+newmtl torensmal2
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.607843 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/torensmal2.jpg
+
+newmtl achtertorennoord
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.513725 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/achtertorennoord.jpg
+
+newmtl achtertorennoord1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.513725 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/achtertorennoord1_.jpg
+
+newmtl Color_006
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.337255 0.337255
+Ks 0.330000 0.330000 0.330000
+
+newmtl blauw_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.533333 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/blauw_1.jpg
+
+newmtl achtertorennoord2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.513725 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/achtertorennoord2_.jpg
+
+newmtl middelsteraamnoord
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.380392 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/middelsteraamnoord.jpg
+
+newmtl Color_E18
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.631373 0.545098
+Ks 0.330000 0.330000 0.330000
+
+newmtl achterZuidOnder
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.207843 0.172549
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/achterZuidOnder.jpg
+
+newmtl dakjedark1
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.482353 0.521569
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakjedark1.jpg
+
+newmtl paars1
+Ka 0.000000 0.000000 0.000000
+Kd 0.623529 0.623529 0.639216
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/paars1.jpg
+
+newmtl paars2
+Ka 0.000000 0.000000 0.000000
+Kd 0.631373 0.631373 0.654902
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/paars2.jpg
+
+newmtl paars3
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.584314 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/paars3.jpg
+
+newmtl paars3_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.584314 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/paars3_1_.jpg
+
+newmtl paars4
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.639216 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/paars4.jpg
+
+newmtl muurFront
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.631373 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/muurFront.jpg
+
+newmtl smalleachterkt
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.623529 0.509804
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/smalleachterkt.jpg
+
+newmtl voor1everdnoord
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.419608 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/voor1everdnoord.jpg
+
+newmtl raam2everdiep1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.341176 0.333333
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/raam2everdiep1_.jpg
+
+newmtl voor1everdnoord1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.419608 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/voor1everdnoord1_.jpg
+
+newmtl dakje1
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.796078 0.811765
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakje1.jpg
+
+newmtl GeelDak1
+Ka 0.000000 0.000000 0.000000
+Kd 0.725490 0.690196 0.690196
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/GeelDak1.jpg
+
+newmtl dakje2
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.792157 0.807843
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakje2.jpg
+
+newmtl middelsteraamnoord1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.380392 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/middelsteraamnoord1_.jpg
+
+newmtl Dak1
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.627451 0.682353
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/Dak1.jpg
+
+newmtl M_9
+Ka 0.000000 0.000000 0.000000
+Kd 0.968627 0.749020 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_9.jpg
+
+newmtl M_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.968627 0.745098 0.431373
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_4.jpg
+
+newmtl zuid4
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.478431 0.262745
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/zuid4.jpg
+
+newmtl M_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.831373 0.639216 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_11.jpg
+
+newmtl M_11_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.831373 0.639216 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_11_1_.jpg
+
+newmtl Color_D16
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.298039 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl muurBacksideKaalKlein
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.592157 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/muurBacksideKaalKlein.jpg
+
+newmtl Raampje3
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.490196 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/Raampje3.jpg
+
+newmtl dakrandR
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.576471 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakrandR.jpg
+
+newmtl dak
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.650980 0.650980
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dak.jpg
+
+newmtl dakkoepel2
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.603922 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakkoepel2.jpg
+
+newmtl M_0
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.603922 0.309804
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_0.jpg
+
+newmtl M_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.650980 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_1.jpg
+
+newmtl M_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.470588 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_7.jpg
+
+newmtl M_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.529412 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_8.jpg
+
+newmtl M_8_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.529412 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_8_1_.jpg
+
+newmtl M_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.392157 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_6.jpg
+
+newmtl M_8_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.529412 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_8_2_.jpg
+
+newmtl M_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.666667 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_2.jpg
+
+newmtl M_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.545098 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_10.jpg
+
+newmtl M_0_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.603922 0.309804
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/M_0_1_.jpg
+
+newmtl noordBoven
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.388235 0.254902
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/noordBoven.jpg
+
+newmtl grijsNoordlinks
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.454902 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/grijsNoordlinks.jpg
+
+newmtl Raam1
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.537255 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/Raam1.jpg
+
+newmtl Raam2
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.364706 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/Raam2.jpg
+
+newmtl or11
+Ka 0.000000 0.000000 0.000000
+Kd 0.815686 0.501961 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or11.jpg
+
+newmtl oranjeonderkant
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.650980 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/oranjeonderkant.jpg
+
+newmtl or7
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.505882 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or7.jpg
+
+newmtl OranjePootKaal
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.392157 0.317647
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/OranjePootKaal.jpg
+
+newmtl OranjePootKlein1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.384314 0.298039
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/OranjePootKlein1_.jpg
+
+newmtl LangRaam
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.462745 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/LangRaam.jpg
+
+newmtl dakDef1
+Ka 0.000000 0.000000 0.000000
+Kd 0.925490 0.882353 0.882353
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakDef1.jpg
+
+newmtl OranjeIngangBoven
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.400000 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/OranjeIngangBoven.jpg
+
+newmtl or10
+Ka 0.000000 0.000000 0.000000
+Kd 0.811765 0.498039 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or10.jpg
+
+newmtl or8
+Ka 0.000000 0.000000 0.000000
+Kd 0.815686 0.501961 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/or8.jpg
+
+newmtl Noord
+Ka 0.000000 0.000000 0.000000
+Kd 0.831373 0.513725 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/Noord.jpg
+
+newmtl raamNoord
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.482353 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/raamNoord.jpg
+
+newmtl dakwest2a1
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.639216 0.639216
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakwest2a1.jpg
+
+newmtl dakwest4a1
+Ka 0.000000 0.000000 0.000000
+Kd 0.937255 0.937255 0.937255
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dakwest4a1.jpg
+
+newmtl bovenrandZdR
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.584314 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/bovenrandZdR.jpg
+
+newmtl gangramenZ2
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.247059 0.254902
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/gangramenZ2.jpg
+
+newmtl bovenrandZdL
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.552941 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/bovenrandZdL.jpg
+
+newmtl voor1everdiepzuid
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/voor1everdiepzuid.jpg
+
+newmtl Color_A25
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.156863 0.156863
+Ks 0.330000 0.330000 0.330000
+
+newmtl dunnepaal2x1
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.560784 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/dunnepaal2x1.jpg
+
+newmtl binnenkantgrijs1
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.478431 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/binnenkantgrijs1.jpg
+
+newmtl binnenkant
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.513725 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/binnenkant.jpg
+
+newmtl zijraampjezijkant
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.529412 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/zijraampjezijkant.jpg
+
+newmtl zijraampjeklein
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.509804 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/zijraampjeklein.jpg
+
+newmtl raampjeNoord
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.580392 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/raampjeNoord.jpg
+
+newmtl KlRaampjeN
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.450980 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/KlRaampjeN.jpg
+
+newmtl gevelNachter
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.615686 0.611765
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/gevelNachter.jpg
+
+newmtl gangnaarpilaar
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.431373 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/gangnaarpilaar.jpg
+
+newmtl Google_Earth_Snapshot_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.447059 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd WallHouse/Google_Earth_Snapshot_2.jpg
